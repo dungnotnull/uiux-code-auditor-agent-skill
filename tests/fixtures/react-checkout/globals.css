@@ -1,0 +1,50 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #3B82F6;
+  --color-surface: #FFFFFF;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: #1F2937;
+  background-color: var(--color-surface);
+}
+
+a:focus {
+  outline: none;
+}
+
+button:focus {
+  outline: none;
+}
+
+input:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #3B82F6;
+}
+
+.cart-item {
+  padding: 16px 12px;
+  border-bottom: 1px solid #E5E7EB;
+}
+
+.checkout-step {
+  padding: 24px 16px;
+  background: #F9FAFB;
+}
+
+.text-error {
+  color: #EF4444;
+}
+
+.progress-active {
+  color: #3B82F6;
+  font-weight: 600;
+}
+
+.progress-inactive {
+  color: #9CA3AF;
+}

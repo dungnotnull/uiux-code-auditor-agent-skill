@@ -1,0 +1,1 @@
+Tạo skill cho việc đánh giá toàn diện UI UX của một source code dựa trên các phương pháp đánh giá uy tín trên thế giới và đưa ra các đề xuất, giải pháp cải tiến, không ngừng đi crawl data từ các paper hoặc document uy tín liên quan để cập nhật kiến thức cho skill ngày càng tốt hơn, xu hướng hơn.
